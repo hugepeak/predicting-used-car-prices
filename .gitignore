@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.cbm
+*.ipynb_checkpoints/
+outputs/
+.venv/
+catboost_info/
+*.log
